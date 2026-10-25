@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "date": "2026-10-25",
-  "zip": "releases/appapi-1.0.1.zip",
-  "sha256": "948c90e6f71f7cde1adb8cf85eaa16a3e3dda5d9a96e0bdd9bdb62c32018b453",
-  "signature": "Se5iytu9gGBlOLydosNbcaXtX7np4XBh9l+nd6NHlvLI3fc31PLGgT6eiER8to6YYS8edhcqwizrcIdA0ue3aaC8walBng5Fawhd9qNs4DX2tMRk9b2xTolbJImcZorMqsV+niCwAr62sIDl1eyTPbZxHeD0tIu7APcVl3VfjKpIHbMoajamTnNlWxdEKDZylZCvovwWZ9JIZ31xZxPMc8gwbCSHrDAVjPD3rNGi1Ux9VIbsmAUswTHoEaUd+iz3KCFx19ZG4Y31OUWVKKTx5iF4AOWCD/6sa4424AA7zmT3PEP5m6DBHnto/G8VaEDv5AjuqT/pKgF9PH+cRqDpihkH+yic42DduqTRKlGggcDgx6LeJcZzKLsKvMHDMp3vv0dgCvTUOBqv81hfgz6esgd7Izr8EyBPY60GlWH68Bqx5FcZntvPSl1USvlXxiZO9Wqqc9xdsF78POwQoaOA64j74YcwAHZ9ihXnw2hbdv/oURFABYagFhgmfAJiE8EV",
+  "zip": "releases/appapi-1.0.2.zip",
+  "sha256": "67f3ecfaec9db4577522edc151167715400b8f46b49bc8ea9fba60a4eab6018d",
+  "signature": "gD1fEGcMiKmT/yiGV5wiLuILipyypyhpiYvt5/wk2lqGOkRHwDOpjWGnZd+XgsgTgmlrXF+yaGlfURJizB86uQqZOp4hvFlCwow05qtwtteGkzyNJZAZEqaYo/gdR5a9667xzVsOkMC11RysgOF8hcOYQGhPVIR06onTJFj39IE/3BDRqMK1abWgze5nm/fLCSiDylv2/O0kFZeUrgR6il8/cXkCrSJuNLl9tLppmdjhYDDVHqW0LtoSvw5SxsZdg30zBpUV28rkUK6i5146tyZPAdrtRDRG23qOGjlrbIZ6exI20dDYplSQrxci5I0LCa+zv8VBrSIz14v2r+y+tnsqmS7WclvGCt8xri4sgXvhgIwQjP3uan9vmWgXr4IvmgAtpc6EdxZSQBVjnVNd+USkOZI95/F2KB7UoxQ8ev1RzVS2w0R5cJ9gjy11mHzKqOtjyXZVBmLEZfAXWn4/GygnlA3EbU1Cqu0+WzAqx7BmbMpL5vfsE/sbD3dwKq35",
   "min_php": "7.1",
-  "notes": "보안 수정: 비회원 비밀번호 시도 횟수 제한, 이상한 형식의 값 거절, CAPTCHA 모바일 설정을 앱에도 적용, 비밀번호로 연 비밀글에 댓글"
+  "notes": "XE3·WordPress 연결 플러그인과 번호를 맞춘 판(기능 변화 없음)"
 }
