@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "date": "2026-10-26",
-  "zip": "releases/appapi-1.0.3.zip",
-  "sha256": "92cff50371a9a91f2a1f1256d66ef2f458e412566e361e6c726f77e0866dcfe8",
-  "signature": "k0qZ3aKFu6VTb5cZNpl340FbkdjKxcvkgCozCKG0Luyj0bmpGEph2owN1nvpueP8PUFIFsxPbxfRFVHxGz+J5zqFuDHkIgWwVpw/cE58IAOqXcUC/8ZSgryekiOZO95GeZeSby2wg8M2XrDJxXdAj1cJszcE7eTAyrk/5tanJNE8SqokNLGxEi2RxODEcY4By8XJUC0kkirsNRrKs1sMqVncGxj0LMcNKGJ/Mz/CYX2coq2iupbQqpdkkhdu2hgS7U5WfGejLzUFMCDboSogt7OWYrGuVS6u6ZCfgwdrJJJ049eUuzvfDWze5j+MTvtu6/xMpValN4KYY+YhxXYSrnDrx9JNLzJK3HXp9VB/2KiXi2y4pw6v7lGt2hIIkHOvaVvfKdgjKX6O3+oM32tPkqfkaqJ3KeVhDd7oRaJMtvqsCgsL2MpEv5Ezaa4AtPLWoZDYldn4a9Ecs18M3aDQwoaV5OQKWFQtbEefcOow8T2A0WKygK5p98NEFoejT0E7",
+  "zip": "releases/appapi-1.0.4.zip",
+  "sha256": "6839581dc67443f654b806ddae63b657faaf0d943b33103837af9f610adf6cdb",
+  "signature": "ZKgXpBubPjSu8ZKXYrKBuWmzj+iTd6tCwuvwyGttI4qkGaq7+b2TkXZmuts/2VRQ/lxeRA5cwahioOJw3UhJoMkzWSEpjZWHXvTZu/A47K921oQPFXrnV7Giv8pi9yMDUC11A9LliyD7Vim+hlG4RS7KLmREmRC0zXfBERKG9iM2M/XLS1sgl+ynKoWh1hn/Yd7vAK5IgzWclzaXiT25iQqAgRoyarYyiUcf8Okx7GKotzS/YlAXROTGOQbnPQtqB7HVXASedBXlhBROMlDhEEkY06GyeO8u4IWVNsc6dDs6r+yISNOV9DPSOn2YXKrovaeOBuUQ5xT6HPZtPQ2f8cpooh+Cf6d3HDB+E8hbGGww1MNbsaw17GqDQNuKwaW6OUL5fpjuILCP6SbE7Tw9C7n2aNCcQoNRmefhDyjInkXkJZNTGrf+LxJ2Z4Q8kNkh/1M5sTbHkQnnCxMgcPOG2uhaVC7pGw7LSj3EG0pOGOwPdjH+vaBCmKCmxbJ2yj1j",
   "min_php": "7.1",
-  "notes": "추천인 이름 기본값을 엔진(웹 추천인 목록)과 같은 '닉네임만'으로. 관리 화면에서 따로 정한 사이트는 그대로"
+  "notes": "작성자·추천인·쪽지 이름 표시를 정밀하게: 가입 때 이름을 받는지 보고, 받으면 게시판별로 닉네임/이름/닉네임(이름)(라디오 버튼, 전체 단추, 찾기), 추천인은 '작성자와 같게', 쪽지·친구 따로. Rhymix 2.1.39 회원 정보 보기 수정. 1.0.3 에 섞인 미완성 관리 화면을 대신함"
 }
