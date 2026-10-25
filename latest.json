@@ -1,9 +1,9 @@
 {
-  "version": "0.10.18",
+  "version": "0.10.19",
   "date": "2026-10-25",
-  "zip": "releases/appapi-0.10.18.zip",
-  "sha256": "466916c83dde82334a53a396148ad96251478883d501bf0260a0d7db975e9673",
-  "signature": "Qu19+nM9qHlJvwu5tpP18nCQYBY0Ys6LSeS3oStKMBKSM42ovW6suGXmScCltkHk49zUpZ0jdnY4Oi2nq5TT7HssyBmYhv5FDIgFj3DBijsbMT4Zezz9WH9T95OvmRB9u1MU0gy1LwXpdwemF566N2dPbCYBCN4UGDd/BhGXMEy8NZ4WciqUxalCQr0hE6GTa7jZDLvPrnzYgYnc7cCwbygpITetiTlf0dzJTgq/dluVXW2OIIGnfTbI/yNYQyN7+tvVoG4Nn33L5fCCVMK1DFrS7bFkSWGCqyc6gUJf1fTmhGvd+1BFd11djzdDakHWDxAxGTfZFThegqDDxSd9/caE+QHIyLl+8Ke9J2HTb1aXtaRmQWMTlMrEBGQdH4TL+XD35L9jAvcoYiUnqmTgmE4YqyRwyfc+sUsrc7IhCQFqh+AS9kRElb7QSNZ0xCL5nsdJoAgE1nCd5jjcr1O5HqA+FfzyJ3hfsf7D+sWKbhTd8C+yasbqCLZER1YAw2f8",
+  "zip": "releases/appapi-0.10.19.zip",
+  "sha256": "c7be3ea0a57276e2322e08f306843bb2a41ef6cf59adefa0c6e2160f80f50aad",
+  "signature": "dxD3fqvu5M+DiA7eEbW73irKvUHYhr8XzfChRZmjpPWsdm2DvsV7azAAKEIgHFunV+zTOGU1mBzNKMrd0VbEz9+jjQic05Jmv31K504Uh9NxiaLFP/b0UqvescP5hfZua/pjAi2AK95ADxjHPAFSbGYaXBu9B75vhxGvW5+Ha/s1/j2nrOQ/SSGOWnailI1lyzOiGL+bXVNrgKc7CixB9iNbfZb2UuLyAm1PrsNkpUH+Oo0iH9jLp6wdWa2rEG6eVFOMT0+xpbt5M0xj5DgjrEmZfLpQZpLoWjs+Jex6wulA2T7+t3u6wi79tFMmSf1gbFsTu9BLxC82QPzkL35YbiwTG2TJEnC5KDhNMWoado1T2i11Si52b3jtuubLPYudU2XgxoCU15oSEr/1PynObWoWSuoL7W2NSGKkdr2L3DULrpX+xBT6l2E9o963wxiFSc8ICqqpHvZxZ6R4HYyn93Gbh0+aEHyXMw7DNlmTU23UZPmYQl5VqWhERreYOnxj",
   "min_php": "7.1",
-  "notes": "Rhymix 새 설치 사이트에서 쪽지함·친구 목록이 비어 보이던 문제 수정, 권한으로 하위 메뉴가 모두 숨은 빈 묶음 메뉴를 빼기"
+  "notes": "앱 언어(12개 언어)에 맞춰 메뉴·게시판·분류 이름과 엔진 문구를 그 언어로(사이트에 그 언어가 있을 때), 앱에 보내는 안내 문구 12개 언어, 사이트 언어(lang) 알림, 비회원에게 상담 게시판이 빈 게시판으로 보이던 것 수정"
 }
