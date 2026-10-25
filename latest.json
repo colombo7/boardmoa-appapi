@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "date": "2026-10-25",
-  "zip": "releases/appapi-1.0.0.zip",
-  "sha256": "b1255d0d6ac5464e4d688f6552a0544a71f00cedf6a8fd43df71f6d227c149de",
-  "signature": "WUItH3KW86/jK3L8ENfRsQUNp8qEy09tR5yoHxHuWhVNI0himt5dXunwtjzhPuEil0LEfNmmLOdHWjPxhRVu3oyLaXXaU3nuyIT0Kv/f2UqiRwheU8O9aQmy5Acid+H3mI4bYOot019x00ZZFlUeI5jvDnBsT3BUZlHvhuD00fj1SEfej8Q/jkZYR0sbEwK9aUy8III1pyopwuP2JTxNcVCEZbUrG1lxjqt1+dVRfzPyHG1RZg4KfcWNcq690DuvjpEgaVMGuFFAsd8MRXhhUo5lXRlVpmZuRvJwuDAeF4DSGc3LY4MxDyxiDRuneCmrv2x2olP510GNmBP//96nPusOk2wnO8ze6KhJl+9oEK0At4hkOTL63jpBPUy37HDn+x09PXcE8oDfYxaZDzQH2nBF/2mY08Iy4cSKmi2y1PKMtShVsrA0bxw+FP+qzQ4/hSxBddXpK0ubm36ekVMu6QCIRAbRIcYA75ISkh25TxwJvRlA8I3aUctycaxlIYQ1",
+  "zip": "releases/appapi-1.0.1.zip",
+  "sha256": "948c90e6f71f7cde1adb8cf85eaa16a3e3dda5d9a96e0bdd9bdb62c32018b453",
+  "signature": "Se5iytu9gGBlOLydosNbcaXtX7np4XBh9l+nd6NHlvLI3fc31PLGgT6eiER8to6YYS8edhcqwizrcIdA0ue3aaC8walBng5Fawhd9qNs4DX2tMRk9b2xTolbJImcZorMqsV+niCwAr62sIDl1eyTPbZxHeD0tIu7APcVl3VfjKpIHbMoajamTnNlWxdEKDZylZCvovwWZ9JIZ31xZxPMc8gwbCSHrDAVjPD3rNGi1Ux9VIbsmAUswTHoEaUd+iz3KCFx19ZG4Y31OUWVKKTx5iF4AOWCD/6sa4424AA7zmT3PEP5m6DBHnto/G8VaEDv5AjuqT/pKgF9PH+cRqDpihkH+yic42DduqTRKlGggcDgx6LeJcZzKLsKvMHDMp3vv0dgCvTUOBqv81hfgz6esgd7Izr8EyBPY60GlWH68Bqx5FcZntvPSl1USvlXxiZO9Wqqc9xdsF78POwQoaOA64j74YcwAHZ9ihXnw2hbdv/oURFABYagFhgmfAJiE8EV",
   "min_php": "7.1",
-  "notes": "버전 번호를 XE3·WordPress 연결 플러그인과 같은 1.0.0 으로 맞춤 (기능 변화 없음)"
+  "notes": "보안 수정: 비회원 비밀번호 시도 횟수 제한, 이상한 형식의 값 거절, CAPTCHA 모바일 설정을 앱에도 적용, 비밀번호로 연 비밀글에 댓글"
 }
