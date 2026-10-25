@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "date": "2026-10-25",
-  "zip": "releases/appapi-1.0.2.zip",
-  "sha256": "67f3ecfaec9db4577522edc151167715400b8f46b49bc8ea9fba60a4eab6018d",
-  "signature": "gD1fEGcMiKmT/yiGV5wiLuILipyypyhpiYvt5/wk2lqGOkRHwDOpjWGnZd+XgsgTgmlrXF+yaGlfURJizB86uQqZOp4hvFlCwow05qtwtteGkzyNJZAZEqaYo/gdR5a9667xzVsOkMC11RysgOF8hcOYQGhPVIR06onTJFj39IE/3BDRqMK1abWgze5nm/fLCSiDylv2/O0kFZeUrgR6il8/cXkCrSJuNLl9tLppmdjhYDDVHqW0LtoSvw5SxsZdg30zBpUV28rkUK6i5146tyZPAdrtRDRG23qOGjlrbIZ6exI20dDYplSQrxci5I0LCa+zv8VBrSIz14v2r+y+tnsqmS7WclvGCt8xri4sgXvhgIwQjP3uan9vmWgXr4IvmgAtpc6EdxZSQBVjnVNd+USkOZI95/F2KB7UoxQ8ev1RzVS2w0R5cJ9gjy11mHzKqOtjyXZVBmLEZfAXWn4/GygnlA3EbU1Cqu0+WzAqx7BmbMpL5vfsE/sbD3dwKq35",
+  "version": "1.0.3",
+  "date": "2026-10-26",
+  "zip": "releases/appapi-1.0.3.zip",
+  "sha256": "92cff50371a9a91f2a1f1256d66ef2f458e412566e361e6c726f77e0866dcfe8",
+  "signature": "k0qZ3aKFu6VTb5cZNpl340FbkdjKxcvkgCozCKG0Luyj0bmpGEph2owN1nvpueP8PUFIFsxPbxfRFVHxGz+J5zqFuDHkIgWwVpw/cE58IAOqXcUC/8ZSgryekiOZO95GeZeSby2wg8M2XrDJxXdAj1cJszcE7eTAyrk/5tanJNE8SqokNLGxEi2RxODEcY4By8XJUC0kkirsNRrKs1sMqVncGxj0LMcNKGJ/Mz/CYX2coq2iupbQqpdkkhdu2hgS7U5WfGejLzUFMCDboSogt7OWYrGuVS6u6ZCfgwdrJJJ049eUuzvfDWze5j+MTvtu6/xMpValN4KYY+YhxXYSrnDrx9JNLzJK3HXp9VB/2KiXi2y4pw6v7lGt2hIIkHOvaVvfKdgjKX6O3+oM32tPkqfkaqJ3KeVhDd7oRaJMtvqsCgsL2MpEv5Ezaa4AtPLWoZDYldn4a9Ecs18M3aDQwoaV5OQKWFQtbEefcOow8T2A0WKygK5p98NEFoejT0E7",
   "min_php": "7.1",
-  "notes": "XE3·WordPress 연결 플러그인과 번호를 맞춘 판(기능 변화 없음)"
+  "notes": "추천인 이름 기본값을 엔진(웹 추천인 목록)과 같은 '닉네임만'으로. 관리 화면에서 따로 정한 사이트는 그대로"
 }
