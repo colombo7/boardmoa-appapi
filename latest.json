@@ -1,9 +1,9 @@
 {
-  "version": "0.10.19",
+  "version": "1.0.0",
   "date": "2026-10-25",
-  "zip": "releases/appapi-0.10.19.zip",
-  "sha256": "c7be3ea0a57276e2322e08f306843bb2a41ef6cf59adefa0c6e2160f80f50aad",
-  "signature": "dxD3fqvu5M+DiA7eEbW73irKvUHYhr8XzfChRZmjpPWsdm2DvsV7azAAKEIgHFunV+zTOGU1mBzNKMrd0VbEz9+jjQic05Jmv31K504Uh9NxiaLFP/b0UqvescP5hfZua/pjAi2AK95ADxjHPAFSbGYaXBu9B75vhxGvW5+Ha/s1/j2nrOQ/SSGOWnailI1lyzOiGL+bXVNrgKc7CixB9iNbfZb2UuLyAm1PrsNkpUH+Oo0iH9jLp6wdWa2rEG6eVFOMT0+xpbt5M0xj5DgjrEmZfLpQZpLoWjs+Jex6wulA2T7+t3u6wi79tFMmSf1gbFsTu9BLxC82QPzkL35YbiwTG2TJEnC5KDhNMWoado1T2i11Si52b3jtuubLPYudU2XgxoCU15oSEr/1PynObWoWSuoL7W2NSGKkdr2L3DULrpX+xBT6l2E9o963wxiFSc8ICqqpHvZxZ6R4HYyn93Gbh0+aEHyXMw7DNlmTU23UZPmYQl5VqWhERreYOnxj",
+  "zip": "releases/appapi-1.0.0.zip",
+  "sha256": "b1255d0d6ac5464e4d688f6552a0544a71f00cedf6a8fd43df71f6d227c149de",
+  "signature": "WUItH3KW86/jK3L8ENfRsQUNp8qEy09tR5yoHxHuWhVNI0himt5dXunwtjzhPuEil0LEfNmmLOdHWjPxhRVu3oyLaXXaU3nuyIT0Kv/f2UqiRwheU8O9aQmy5Acid+H3mI4bYOot019x00ZZFlUeI5jvDnBsT3BUZlHvhuD00fj1SEfej8Q/jkZYR0sbEwK9aUy8III1pyopwuP2JTxNcVCEZbUrG1lxjqt1+dVRfzPyHG1RZg4KfcWNcq690DuvjpEgaVMGuFFAsd8MRXhhUo5lXRlVpmZuRvJwuDAeF4DSGc3LY4MxDyxiDRuneCmrv2x2olP510GNmBP//96nPusOk2wnO8ze6KhJl+9oEK0At4hkOTL63jpBPUy37HDn+x09PXcE8oDfYxaZDzQH2nBF/2mY08Iy4cSKmi2y1PKMtShVsrA0bxw+FP+qzQ4/hSxBddXpK0ubm36ekVMu6QCIRAbRIcYA75ISkh25TxwJvRlA8I3aUctycaxlIYQ1",
   "min_php": "7.1",
-  "notes": "앱 언어(12개 언어)에 맞춰 메뉴·게시판·분류 이름과 엔진 문구를 그 언어로(사이트에 그 언어가 있을 때), 앱에 보내는 안내 문구 12개 언어, 사이트 언어(lang) 알림, 비회원에게 상담 게시판이 빈 게시판으로 보이던 것 수정"
+  "notes": "버전 번호를 XE3·WordPress 연결 플러그인과 같은 1.0.0 으로 맞춤 (기능 변화 없음)"
 }
