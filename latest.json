@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "date": "2026-10-26",
-  "zip": "releases/appapi-1.0.8.zip",
-  "sha256": "c8577f452c735663a4e976d677a5f65be5caee67b024bdd91aecdcc183d8ee01",
-  "signature": "t3Pp33xq278ubQZWg+yg9sby7RNrUHfMhqQDZOc86MM67shhaTZGSqgmi82v21Ah0ptQBadEoEqUuwOgj2uCKSsIpzCsfgQMRGvtr+b/CEb9oBzRDJRbzOgGCw82h3spGY3pW7VjIBhInQFhLIHiOEUwtB0DBohp0OfLu/ftGkQDP3XeyAa8abJIMIHizrplRhGW2gkQ6EGEeOrnfDPx+Jo3b4H6P/63HpCJ5XhwGq50zO5FBWcl6VW3742O4ukLbmL1sLbpfszxzvEEe9L+KUTvnKzmFOsBmEaFwFQrM5y1EtIzdU8yY99oxUEZDxLkkZS4xxmEHJauZFo95WOVb8nEMtsQpLl0pToKhbtsjM0FSdLU6fTa8nvfAcZlTqd8Mi5njeYws/jccXMLCqQYWr6a2K1dkWpnYuHcAGsw22vbulHl3HA6pEneWtTfliqS3UVyfY20f60tw9XKwpqOmHhGNMwCkBZIM0aB+JLEmzT5T6bqZBLNEOMjyEiq31Ll",
+  "zip": "releases/appapi-1.0.9.zip",
+  "sha256": "371a394c8af8710d7ed8282e6fd624ceddfdff8c1bb8a8c2900adabe658d6739",
+  "signature": "G7/ykbhU+wYAJodw5kXihlJBTa5GLUSOYEKNP6/8nFx1jp5/EaBKkQzpD7Gj1PTvork7RfJeEsaqlVUCeVUTOqOGz3zGkxtR+QqJNrDoMQfxGgN/xfUdLDfWupzJ6xjzQYU9kQ1v8kQDtPQnF6Cqx7Vf9jPeAuqZyv7ceD0UzzX19Qw7l0rtjRABCsp4XS1aZMAPKDYUJ/tnZsksI/aqwwyn5SfDXI5detvuIWLxC4uTskL5Hw86LRPPPffpeARt1MVwcWJJ2SBF2T8Uka8f/CmGGUA2+JV9lZz+KDPKJCjJkq005wfmGZWVsFZGEPtLIAtYZ9oM3ghDJ20p/zKkQcvc2PmpHR4BtTd6doVq1sk9vTmDc/y2BBgsCDNjVtmkVP7dbw77zuIwes6CwLqL6hUR82YQhW4rJCTYrQDVJLANzeNFnKjdXQtyTDlpa/tqrYcDole0ddf7g9aGGVMquqrpCZyU4R7kv8QQpNr0vrUnABHn1yfHI6RBB0iS2uBQ",
   "min_php": "7.1",
-  "notes": "관리 화면: 접는 게시판 목록 단추를 눈에 띄게, 게시판별 추천인 이름에 [게시판별 작성자 이름에서 가져오기] 단추"
+  "notes": "관리 화면·업데이트 안내·설치 안내 문구를 알기 쉽게 다듬음"
 }
