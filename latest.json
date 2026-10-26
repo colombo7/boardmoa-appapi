@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "date": "2026-10-26",
-  "zip": "releases/appapi-1.0.6.zip",
-  "sha256": "7f2f8804a645f57ee2ab0e39d2f498e6ae671251bfce2eede5d269c54c56bd83",
-  "signature": "PMrY+u1SooV2IufxI/P5Sj5x+6ntAF7/PnYqw+oS+pjuCFFyK6lLhAr2mATnvpNzo1gI0F01XBWp0+Xx43MzMb/5rB/Yw1FyG853g4YglckWuIXTlsB24pwFKKfrKqwqfcCFaty7BCrEblPQgsj8uEqimIQxwBjGOM8OlGb03FmmG+mXh6tuWH7DJFF2TVUqqrvF9G4a8J3ElpB+ny+62t0TYHPzq4CFPdP6dc+KmYsdr4WG3CRh3CYDL8vsCmbfgDnKNdN9bripDlcz213lc54suyjiiSkso0Vc/QlaOdf8nCSal//691+d9MAPaeFrocWi+XRjx8P4S0l5qjM7dxhWjB9vSV5SkasAyiNL7Zzbd9NwzFuoyfwcor0Hmsn7nD37+S7tp7ZirkZYiwPbXXL/94qsXijA+r+wctSl3kLMrlrXZh3UndRBuUyy7oFTqVdlzPodEyEKOebMMGTPwN1oNmT2qyIbKtyeefIhK+u/p2LI3tfl/Jo1dWdMbiMm",
+  "zip": "releases/appapi-1.0.7.zip",
+  "sha256": "664e714b1ad703fd3fb1f8c44a5a115785ab87cdf8875b7d1117059a28fdadd8",
+  "signature": "Q9yqkBvTFSDSyywl9wi5vHTdsHL6rbfXIdLh0LttdbVNGZZOMme9+73nwkECGyXezUAa+s5gOcC/xpvUz6YSuvoEZNuWZTPd9ic4dbqv35LADS4i948bkPLjJIYMX9ytplOoZiDWY28AI0TwTLyYH2ome81Gm1pgqXxy1tv/OWQm/IHRIpkJuyXtN1Fi8ekZqEACL7RW2I6LuzeWfSndb3P5j0J9im5wmIoeU/eb05jhKrikAvgc5NAP8B8BLI5X1o6LFEU/KZRlnSoeVYJAr7luSQIg3SFBd5ffmZicX7twh+sXLLPEFvQJ9wcf9blAh/Tnw/hxlFy8DDGG5NMeJcGReL9YQGjeFtWyv5OKZLLocDqCgVBmys7LSHzeSqVmBePHnHVlC38pqvm25adjrRsTj4SRlKvwiHTJBMuPKXlcOSJSNZM/6hLvyAVrvZSEnoPFyfWi1dO986dZg80h0WTxAHaYIYZo7dHGqdr8feA7Ltjy/yP9Z72RiraYKO8v",
   "min_php": "7.1",
-  "notes": "회원 정보: 그림 항목(프로필 사진·이미지 이름·마크)을 그리지 못하는 예전 앱에는 빈 칸 대신 '앱을 업데이트하면 그림을 볼 수 있습니다' 안내"
+  "notes": "관리 화면: 게시판별 이름 표(작성자·추천인)를 접어 두기 — 기본 접힘, 게시판 수와 따로 정한 게시판 수 표시"
 }
