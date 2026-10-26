@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "date": "2026-10-26",
-  "zip": "releases/appapi-1.0.5.zip",
-  "sha256": "3e5b7f1be7d2e65b2ac9c963ec056b4bc633eb3688bbed23107c4326a0771166",
-  "signature": "IHQ09U4TjzYlrVhwRHwpFOhhw6RDs2y6St9goCO7Mk9hbBJpdqmG7KK2BjXH5WPm9t3EreU3sGkUnPqkQqYXVfi53TvY8mExymA69btTpNP8jEqeu5Mza1lfDan03cwdZYYdg6TKGU7JBKrZvheaZzdPaLizjtogqLGxGzN8UJ10da/FOkaWGmD2UUyvupZelWic0M61LC4l45pLfBwpMT4W/vNurgg9c0Myo0JnU7Dvx9R5BoaklhXipTyZ0eMNDONzJ0i4EgB20QMSCqZwKklvvGtIEZGI24AcZA49xc5iIo8ZWg8fkwPtEAmngk5sTdhwpXp/LND7TGvy/6rmct1US41KM2B4gtVOUMAUzMdq375zGB/JIqAEy0RrZ1eC3TgdwFynT6HWaL6rYpQoxVAnvNpFumFytVD1jIqyHprPso05RE35woZ3+KJfgaBRWLVcntr6tSI/Na1OWrRdGctudIN4sMknyC9NUQDcFRk6DP69FFoyCgPmd8gR+iyW",
+  "zip": "releases/appapi-1.0.6.zip",
+  "sha256": "7f2f8804a645f57ee2ab0e39d2f498e6ae671251bfce2eede5d269c54c56bd83",
+  "signature": "PMrY+u1SooV2IufxI/P5Sj5x+6ntAF7/PnYqw+oS+pjuCFFyK6lLhAr2mATnvpNzo1gI0F01XBWp0+Xx43MzMb/5rB/Yw1FyG853g4YglckWuIXTlsB24pwFKKfrKqwqfcCFaty7BCrEblPQgsj8uEqimIQxwBjGOM8OlGb03FmmG+mXh6tuWH7DJFF2TVUqqrvF9G4a8J3ElpB+ny+62t0TYHPzq4CFPdP6dc+KmYsdr4WG3CRh3CYDL8vsCmbfgDnKNdN9bripDlcz213lc54suyjiiSkso0Vc/QlaOdf8nCSal//691+d9MAPaeFrocWi+XRjx8P4S0l5qjM7dxhWjB9vSV5SkasAyiNL7Zzbd9NwzFuoyfwcor0Hmsn7nD37+S7tp7ZirkZYiwPbXXL/94qsXijA+r+wctSl3kLMrlrXZh3UndRBuUyy7oFTqVdlzPodEyEKOebMMGTPwN1oNmT2qyIbKtyeefIhK+u/p2LI3tfl/Jo1dWdMbiMm",
   "min_php": "7.1",
-  "notes": "회원 정보: 웹과 같은 항목(프로필 사진·이미지 이름·마크·회원 그룹·가입일, 최근 로그인은 본인·관리자만), 관리 화면에 '다른 회원 정보 보기'(같은 그룹 회원·로그인한 회원·관리자만) 설정"
+  "notes": "회원 정보: 그림 항목(프로필 사진·이미지 이름·마크)을 그리지 못하는 예전 앱에는 빈 칸 대신 '앱을 업데이트하면 그림을 볼 수 있습니다' 안내"
 }
