@@ -1,9 +1,9 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "date": "2026-10-26",
-  "zip": "releases/appapi-1.0.7.zip",
-  "sha256": "664e714b1ad703fd3fb1f8c44a5a115785ab87cdf8875b7d1117059a28fdadd8",
-  "signature": "Q9yqkBvTFSDSyywl9wi5vHTdsHL6rbfXIdLh0LttdbVNGZZOMme9+73nwkECGyXezUAa+s5gOcC/xpvUz6YSuvoEZNuWZTPd9ic4dbqv35LADS4i948bkPLjJIYMX9ytplOoZiDWY28AI0TwTLyYH2ome81Gm1pgqXxy1tv/OWQm/IHRIpkJuyXtN1Fi8ekZqEACL7RW2I6LuzeWfSndb3P5j0J9im5wmIoeU/eb05jhKrikAvgc5NAP8B8BLI5X1o6LFEU/KZRlnSoeVYJAr7luSQIg3SFBd5ffmZicX7twh+sXLLPEFvQJ9wcf9blAh/Tnw/hxlFy8DDGG5NMeJcGReL9YQGjeFtWyv5OKZLLocDqCgVBmys7LSHzeSqVmBePHnHVlC38pqvm25adjrRsTj4SRlKvwiHTJBMuPKXlcOSJSNZM/6hLvyAVrvZSEnoPFyfWi1dO986dZg80h0WTxAHaYIYZo7dHGqdr8feA7Ltjy/yP9Z72RiraYKO8v",
+  "zip": "releases/appapi-1.0.8.zip",
+  "sha256": "c8577f452c735663a4e976d677a5f65be5caee67b024bdd91aecdcc183d8ee01",
+  "signature": "t3Pp33xq278ubQZWg+yg9sby7RNrUHfMhqQDZOc86MM67shhaTZGSqgmi82v21Ah0ptQBadEoEqUuwOgj2uCKSsIpzCsfgQMRGvtr+b/CEb9oBzRDJRbzOgGCw82h3spGY3pW7VjIBhInQFhLIHiOEUwtB0DBohp0OfLu/ftGkQDP3XeyAa8abJIMIHizrplRhGW2gkQ6EGEeOrnfDPx+Jo3b4H6P/63HpCJ5XhwGq50zO5FBWcl6VW3742O4ukLbmL1sLbpfszxzvEEe9L+KUTvnKzmFOsBmEaFwFQrM5y1EtIzdU8yY99oxUEZDxLkkZS4xxmEHJauZFo95WOVb8nEMtsQpLl0pToKhbtsjM0FSdLU6fTa8nvfAcZlTqd8Mi5njeYws/jccXMLCqQYWr6a2K1dkWpnYuHcAGsw22vbulHl3HA6pEneWtTfliqS3UVyfY20f60tw9XKwpqOmHhGNMwCkBZIM0aB+JLEmzT5T6bqZBLNEOMjyEiq31Ll",
   "min_php": "7.1",
-  "notes": "관리 화면: 게시판별 이름 표(작성자·추천인)를 접어 두기 — 기본 접힘, 게시판 수와 따로 정한 게시판 수 표시"
+  "notes": "관리 화면: 접는 게시판 목록 단추를 눈에 띄게, 게시판별 추천인 이름에 [게시판별 작성자 이름에서 가져오기] 단추"
 }
