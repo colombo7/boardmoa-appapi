@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9",
-  "date": "2026-10-26",
-  "zip": "releases/appapi-1.0.9.zip",
-  "sha256": "371a394c8af8710d7ed8282e6fd624ceddfdff8c1bb8a8c2900adabe658d6739",
-  "signature": "G7/ykbhU+wYAJodw5kXihlJBTa5GLUSOYEKNP6/8nFx1jp5/EaBKkQzpD7Gj1PTvork7RfJeEsaqlVUCeVUTOqOGz3zGkxtR+QqJNrDoMQfxGgN/xfUdLDfWupzJ6xjzQYU9kQ1v8kQDtPQnF6Cqx7Vf9jPeAuqZyv7ceD0UzzX19Qw7l0rtjRABCsp4XS1aZMAPKDYUJ/tnZsksI/aqwwyn5SfDXI5detvuIWLxC4uTskL5Hw86LRPPPffpeARt1MVwcWJJ2SBF2T8Uka8f/CmGGUA2+JV9lZz+KDPKJCjJkq005wfmGZWVsFZGEPtLIAtYZ9oM3ghDJ20p/zKkQcvc2PmpHR4BtTd6doVq1sk9vTmDc/y2BBgsCDNjVtmkVP7dbw77zuIwes6CwLqL6hUR82YQhW4rJCTYrQDVJLANzeNFnKjdXQtyTDlpa/tqrYcDole0ddf7g9aGGVMquqrpCZyU4R7kv8QQpNr0vrUnABHn1yfHI6RBB0iS2uBQ",
+  "version": "1.0.10",
+  "date": "2026-10-27",
+  "zip": "releases/appapi-1.0.10.zip",
+  "sha256": "8cfe7952805294ec5a643879462542ab7e2ff133461d039e6dbbf95885447f57",
+  "signature": "VNqCe26HJGYZF1gm4KdZQupgElukMgYNIkddeOpqc97tPlDAQ0Pe5iAUcKB2Vtk3f0eXU/J8+624Gky2Dr4pXqe13O3O+wzJbNqoltlQAR9jZ3wr25LPZ+AAU3U8ST/Los5KHRmqZZAld88eKMV7AoXVeSiaJHDUvEBWqwMvSWMAHud14XiWxdiHXXU2j8cUwqr/EvBj6qpY31aWME3J7aVz9pPv+BEmft44Uu9xAs38rISHa/mE5S1poBkWkvWcmdB7YmdJS292bzbq9O06gBLa4zbOVHee5CVOhEkh06cf3Z3hpfvN8A4DwYGdiStqipPnK0cIrscqvFW+Quvd7WBgrlrm761ypkaPKBvyA70BZEf/AvULAQpPhoNIa5PE5yyHBAPC7FpUnP25B6Z4MxFjFJg1Fwyjdb8i822f2ZAgiVJ6v6BkfAf6GYZuqL1y3JZ5rnd+yDByCPS47tfM6Rvdr/aMUTtET81S5OKf6U+cQq+wju6d0PpI9Q0hWdev",
   "min_php": "7.1",
-  "notes": "관리 화면·업데이트 안내·설치 안내 문구를 알기 쉽게 다듬음"
+  "notes": "게시판·분류 이름에 &amp; 같은 HTML 문자가 그대로 보이던 것 고침"
 }
