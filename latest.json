@@ -1,9 +1,9 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "date": "2026-10-27",
-  "zip": "releases/appapi-1.0.11.zip",
-  "sha256": "fad1f0a105bf65db15ffe7a1142825238df0b7db375d8784a8b7da570fd3fa45",
-  "signature": "vxMQBhjskrNMvJDwNnWxKPgcGY8KCduwGujt0g+I/2EDaOd5knByEX6vGiFenOuwlhriZ2N6+tIVk4j61+C5rT8GVaupQBN+ezqCielrsme2Y0BodVKwfpsGW/G6cC9t2bn1uPIUV0fNp25h9WuVKkq7u2cMitRvxtLpLEE1ddagWTFlxWHVSl99iCiIALNhgjU4a5JeLr1OOE92tZ/eJnOCKo/15gs9AApoCkMHe3TxLmw2RIOTNbjtfR8IAagFwctF84zfwpM2xCAKidjPUFjHv8nJmh3sLOcz/7ApEKYenf75TeXme4UlYnmGgjj2OTrKL8pw1Z1x1SIejRuZ+HqtbIr/TFvevDIAs7j5ItPY8mv2FxaBsnrf8YaHdhogQL5Ci3xlIjJncWT0dfi3kCZw0Hl3nZmnVVSHwD5ofRk8LgwVkkP3pvBYMm8WmGMIYOjInAaF401PhUrOmi1XfzL/4VX7rBlETgAqYKHJ/27WLwCRyxu2YSn0YdbUcVxb",
+  "zip": "releases/appapi-1.0.12.zip",
+  "sha256": "1baaa58d79b455f62cae1a53d3f0109cf2f2b844c197d8562ea7f4a7d8d9b859",
+  "signature": "v95tJWPKCBv56by/YsTrT4f3bhGxXh1uGK2+qKQ+/WHUgNEioJ8nClxlFRo086ML0BBwh0XXd/Ww16KlJk1au51MwWEOFwOiq1QDHvbEmhmuM7kBC7XyiiRIgbO+9ebT/rUVwZ0LZiFWC3VQzCdIEOI5n5SBQX7C9Fu7JyL3QpytrFWKKyyhfa+PGF38alqs+hR7AHpSAK6A+s7/NBAvFy/ScF97bbpQBgG02ENPHAsGNJUF7DyM/8W31aKxkTBI1QN9zTpnt8Ye5IME5xOi8GDMZNv421HWufEgKA3nFL+jqEI2uib5r1QSN/kVvjnhQZZLos4eQc0CXkGGbuQR5nv4ZPfLHqli9o0zxLjqK3Ry9iW57T+BN0xWDCTkx/pMKKueCkSG8Rhkowx4A5q3mN9i7hjI6zmuYFy4EsRk2os5WtwBOw+KaBeXIRXzIpfNrgk7Tj8GcW6mHh8qSw/NIla9YQGsZgLOS2lps+XWf6YKtOx3FWmLrmwUcQ8MXkdz",
   "min_php": "7.1",
-  "notes": "댓글 버튼 이름(댓글·수정·삭제)을 웹과 같은 엔진 문구로 앱에 보냄"
+  "notes": "앱 설정 '게시판 언어: 사이트 기본 언어'(X-Content-Lang: site)면 내용을 사이트 기본 언어로"
 }
