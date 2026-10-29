@@ -1,9 +1,9 @@
 {
-  "version": "1.0.14",
-  "date": "2026-10-28",
-  "zip": "releases/appapi-1.0.14.zip",
-  "sha256": "a5bcddd11edc1b19988c2bade95836ed611b3a04e7996b365848a59902fec505",
-  "signature": "jd0oKL9Pvpfmv98xoj4fMZjx4Chzv6OLIrZr28Yw5JzICdITbj2cb1NKtqVoDbpsFi/aRtOVb7OuDQH78Wm9YO5pT0pOluCrl3T8H5BaYYcC7/YTO/foNzSMPL1OhJbt+0BMW1BRf2vdntQd3kkTWdGImamWIdVij+OGBg5vndZvipWs+y7X/0e3lqUsEfL2ytEiMJ1giE7bzrZsecSu80cdzmp/F1pQ7LnHr4BboFXqVJQP967dO3es05uQ6Q0wbQmopJsz4jlSr6uwncvnT11znKZfzzmxqD1irMwQLl2WNMKP0l19loptK4Y4svV+rUK9C6PZue/Litr5JUn3qRdt3vO214o0vU/UG3RtfqU3/xXcCrLrCDGJiWCw8PGFRKdE9YXEzIDd4AdlDCvhGkLzFHNUn3ddNfWXrbC8jIoA8RGBc2UspyJtKP0AnyK00gHL15ppscOQJ5nC4cMb0kZHUH5tEnQJ+DmKgGM0p414Oj7ZDcoxX3Qn3kw5l2aO",
+  "version": "1.0.15",
+  "date": "2026-10-29",
+  "zip": "releases/appapi-1.0.15.zip",
+  "sha256": "4391f96e66d739060a7468e7b1238522b317bbad93dbe54537ed7db6c3936131",
+  "signature": "SZKFoxgdrfibrAoOlANT3Ip5QVGw0uYKF+zmCosGBRQlmDDvdA87bWLxmIkMIglxbXf1F/sKcB16oIooSfYTzK4zEHz6ZJR1qz5n4iAl2n8qzSQqcGeljy/Mv7SxTyX6O9T1V1+k2yaAEGsUBbyAlKM242ZRSkAEN97t4E8RdCZaE7OQTTg7Ckca1beu7XHRFkyh9mPLoKJKVfe5zrcJfTrssNMTFtKNxgJ3R5RMjD/8ek/FVPvFNSEwo5ugH1Dma8ToIzn9WUk6Xlyb36tPK/nRQ8vDuaHwYb813chfJRKCoJLi6No57Haz4E+gnZ2jYWiNKEYwvUKuDl/rKrRGhTL6ui2zRfEKkwgLh5oYAfQ26OSCaFQRzQa0k+dYB2X6rYEFY9ba9al3LY/t733LGuOdQATqiFIBoJplpHp8RiFqyH9+L/RwJEYt3VUX9XurmAXYSLNASquJqMzjo601t44dRqflyEeeE85/H8mlLvDlNE9dANhTMqNAfmJwjCV2",
   "min_php": "7.1",
-  "notes": "업데이트 직후에도 설치 현황에 새 버전이 바로 반영되고, '개발자에게 알리기'를 끈 사이트는 설치 현황에 넣지 않습니다"
+  "notes": "모듈 4종 번호 맞춤 (그누보드 모듈 추가, 이 모듈의 코드는 그대로)"
 }
