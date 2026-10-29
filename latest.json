@@ -1,9 +1,9 @@
 {
-  "version": "1.0.16",
-  "date": "2026-10-29",
-  "zip": "releases/appapi-1.0.16.zip",
-  "sha256": "fa1ddd834051f865a18afcfbca5c32d73826378eeb838843182da67aadeb5eb2",
-  "signature": "mfnI/u4zdK4H2C6XtP0XSIAADrhbnafZa0jmKEqs3OnqngDH53aFjalsn0wvhDRTU4l2yAMp1pfI7gdQbwOcjuddVxc5VBybUyDyadVZ5X7aKGnBVR6tiwn+PzcQrwFDuXIn1V4ou979HtUuCmXgeKpF923q5SgLXugz9nBz1JEXRLSBFNQrTQIlNQlEnLhk5aG+G1pBosp80xtz9wa8GU3h1YRQNTb1TJ1MuBiaQmBV94vfj8HgifVyfDBSUpZSxDozk4lak7mrp4aI9fH6dxT8d+PxDDU6XsDaXS3cf0L5vQvPsWGR0oEj7qRbBZTBFaxULE6nWTXaZi2DOYOFSr7wWK1NidP0feCgEx0osbKIdydWpDuy7427TvcPwiXXHkfYchc1gFGyJF+g/sYHa/4Vv/uQfTOqv+CSTXUh7U+RcHOiRvflds0RSOrJy5ozCrrOz2RbBGuYpSCjr0ctA9etQYAWRUoTjOSi5omFY4h0zo8MFaTW+hJiEuFJgvVZ",
+  "version": "1.0.17",
+  "date": "2026-10-30",
+  "zip": "releases/appapi-1.0.17.zip",
+  "sha256": "2a67ee18344b1056ef06f0e675488da2c0e8557ded240583bd5e93a7adcd671c",
+  "signature": "uKJRAW9mIfvCwbcLkXl6+GUtap2zoOkOtK/b7sIKPYAHu1xyVdSbPDns9Z8L4IGA0nGImc02IZhSGQ8MyANu4cTYmzUQ6k5VjcxFYHsVBiwX1nOq3V4vhj8pwvO0Gi/7uQ0gKFIUwy0eD5nQlLsyz1a8tnY2q9M+TUAtApskC86DDYa3dY1kMt5JCFPCijFsNUfmDnvcrGu5vK+AFfAzFAT0lM7kGGionNbu1gdaGV75cZ5ujiBCBt/aisiAzy7RmUAREehK+kI/RG4Vmm4gH0SFYzMKvSXs1b6JljgtRQiw1ZTf9kNrDUU6+g445PXhh7cnIuc5WQpVCvDQn93UkpwxgrcEN5QIyZ7GLxhRn0IimuKlNu7YGTH0hUDdX60mmiKR9AKE7RiWs2LLKGhPhBpT6K/UDIyq6RAxx026e4FJWxHnnwrOziz/dhVPGVLwVuizL5Lgj3HQy3f2aOaBL2ggig9UL7LLmPptEkxOPlXAmbZiDNTFpO+6VRSPGCar",
   "min_php": "7.1",
-  "notes": "모듈 4종 번호 맞춤 (그누보드 모듈 설치 방식 정리, 이 모듈의 코드는 그대로)"
+  "notes": "번호만 올림 (모듈 4종 같은 번호, 그누보드·WordPress 1.0.17 과 함께)"
 }
