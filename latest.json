@@ -1,9 +1,9 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "date": "2026-10-30",
-  "zip": "releases/appapi-1.0.21.zip",
-  "sha256": "5f5d38ec5986ba85a814d95bf2954ba30b4cd4ce55b4e90ecb2174c94ad3f3be",
-  "signature": "FEQyfXr/4WUfLaihnGNf1zWdbQ79uG62I9YbEI2Rrdey+KvsRMNR5hR0LE3gjPXcw2AfbwYnh+dbPL1SrTHn9tmIJh4r+7b96D9y9RJUAoNCPeWtnKhS1j32zZPgOOFUpPFU8XP6/J+hV1RtFFNKy5PnlUsWIMMBozF7SZySNfsckGsfz8nDKSHQuUuARsIFvRK+UmnGSdhPPCZgbZ7zNTINAyHDp1t8VMHP/CqNPXghr1KLSBdPWDk7WBRLkVxdK9CMmZXzzEj1kFSibHPoU2ZVWaH0YtGrObu0KovrwTnLvat/ms8PGtTMrxADuQtKnmADQZ0VJws/6MUjNPsT+YMIpMMtbqP3EagMzrOGKITMI7BoggFectWyk6xLAHm8Xr7+LRMfSYeggf+T8r8eb+s8/DDck1GUxt4n5DKg49p9HHhDlByi5HpO1cu7pclB4uazhxSzWBvH4WnNZeKAAnHraRK26AE0dicko3PzxoPwjg1uMxgGl/s4PwxCu3Mx",
+  "zip": "releases/appapi-1.0.22.zip",
+  "sha256": "9cc631c4020ce490928e71874c347b19c9eff3bd036dcdcf4129130e2053f259",
+  "signature": "LLKHgg+/k4EjqkxEVopW7qCCZSefbZX+N27ppnRw57OwP8VHvW5HlghODW4Xka2lIIuojI68WOLRF6nXTFxyLRs5e67ftTPdUIMFM4p25Hv8SEwiCixwQf+dINHoIObH2POXkTY6JzmvUFIglCO7uHrDKclRi/0nv4Qr5fNh4/k/8u+ktYbhF+p+Otdtw43xkBmsvYtH191fn/mb5H2Jzn8a2vZoZnv0IUDqx7hmt28+Omlo/fT7KwRCwIm5oxI4oHwiwkmkB7CGQD5Egec2aIfzChbjrerWYaSUd0ktnfSxNSgs7HrZ78GKMOS7cCEyLvVysTwFRbgze0mjajKGEBvFjKe83UbcnFaPxu1Ub9vNs1msfwSwKf/yTPrOqcoqSqOmcwgykiJzHtGZZDxlbT8CRIrCG7WPN4Vmc1k4ao0h6iTcSXBKXEAqsfsGYD7Dq69xvb8fTbGzia/X6t/nhKZ/CS5CWZXI7kTj3RLl0i6pX18fftlAwPZwY4Vviw0c",
   "min_php": "7.1",
-  "notes": "내 정보 수정에서 회원아이콘·이미지 이름·이미지 마크·서명·자기소개 등 웹과 같은 항목 수정(앱 2.0.7부터)"
+  "notes": "그누보드 내 정보 수정의 자동 입력 방지는 지원하는 앱(2.0.7~)에만 요구"
 }
