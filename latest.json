@@ -1,9 +1,9 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "date": "2026-10-31",
-  "zip": "releases/appapi-1.0.28.zip",
-  "sha256": "62bf665757eaff44cd578d5506f65562a82f263a9cf0482c475c19cd53116f1c",
-  "signature": "mr42sPY/bLk/Ezb8BJX2RX4LsrsDH1Ad09Ci2utPO92qgc8x3iLO8bdIzYeru+z2lr2YwhM9G9v3/Kq+A7n7CfmQ+CeTqRWyaN66DQvVKFSXQSDHLZgNCnAon6crPwPmEWvMMw3BDD0jK+WN1lFgeP6Xh3+sRzpbqwZzZ8xZUBCaxn0zx+bO/+KPb9759Ky6c4ATOzFAJeiZgnkx9DxqdQ4OiStDv/kcOKRhtuDBcuEBrcPHP8FyhvnJ7X09oyb7piVb9x1fa2oZKwqWO3vSucy3oyLJGl7kV+3eLaH0C9zeJUg2vc+c1ECfEVQnnwmassQMP63J0hE4Pb9ogTS8GlAgacsmpJq0GDk5043eh4gBuoUX2yB7trnP2Hus4BXWqrqDQKakmSoHEWiomOMiBB7jNV/y+OcHe4+om5eQG2aFCW5+UsNkQk4glRvihprlhc5DVG2bTVQz5YZQsGpr+mSE6qPgm+1TAh6HnyxrOXP4PhXTthmrNN82U0a7MUj7",
+  "zip": "releases/appapi-1.0.29.zip",
+  "sha256": "4cc43394a0ae00dabf0735a40a40968bb6f494cc54728c51d71decc2e163a93a",
+  "signature": "vxAI0j7T97kBf+n6J7Eb/6mB6r0g98K4L2ZJAnyOW6oOb6OesMwEGWxxIHbP8lRxwGnv8cqhMTKmQrpwvNDJvoCAYz7pgbxnrmLDi3J5uprFWQq7jVZ1yd1CRUjD3XGLwrTVHPp6rG5wNR8XbwyLjfc1xRjOG/UQ6/S3Mf/p2fnNDz81VbvOb293lAq0aXQvFypmngeJD6ACYb8dEDI7gd4y8zMx8OQj3Nv2BfyxFdQmDeStylW7nCsy4TkaLyyuW0vFJWOYTFDwlN+j0KUtNSXsISs68iGtniuXzKlQvu8QRwZtRBVHFwQOSQ95fDqGQPTkxr8ZCMLDJYDZzG8vps9Oq2eCdm5qVbO4B99nW+URk13Xn52navqrIUMtLY5cCd17iVxfLksA6/qKETT0rOO1hq/hHVdqaGBwfaqqytlCuPsqH0IfCTlZ+fXifIeZWejp6gunnVZ06UPYnbnKTyUSvsFJPEbEThO7zAwNBRfoq4LaaI/Si8Mm8SVwKlPG",
   "min_php": "7.1",
-  "notes": "번호만 올림(다른 연결 모듈과 같은 번호)"
+  "notes": "번호만 올림(그누보드7 플러그인과 같은 번호)"
 }
