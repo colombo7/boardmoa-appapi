@@ -1,9 +1,9 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "date": "2026-10-30",
-  "zip": "releases/appapi-1.0.19.zip",
-  "sha256": "62dd80905c3e3fb8fd40c2a0c7f5e55a536a249aa203606c5d4330e1f0b27b84",
-  "signature": "q+O0T/lcRI/dWbapjk984BPnWLNhb5krug4q4D/QDjM55RAmSq02MZfrA1ZpoKx5JtzbHO70q731jytDa7cdPguAsSCHeS6HW5nZ+y8QVU2phuOe7Q150Xk2mR/3Qf33ImSAuE40Y5yalPBGzsTr8S8GKskZJOopNjtGSMG2gFKJASKBoHfiFjGlyyJKPxz4t6SO3Ge6htqzi2Eg8AalOx+AVtS9doUhqJ1EP7mjiXCz9s9TeJtLyR//k0bHSPA0EhfkAxCBE503ePUacQ864tpiI493aa0MCBOJXfpfQa0Hapf4AB5Bp1KT5HlrGTmHBatf1aZxMZESGQsSe13kfQdZsfYKjGmsKpjJiu6dXmOvhtVE8QpeDVN8p0n10w7GDUOQ18wGiL+/I89pFC5PJ7zk9aygj7teWDbX6Ra7jdA9YvwC4G8Iv8e8aN3DrFD2dg1gPtrOSWEz38/ltZ23b95aV+hnkijJWdivG7tBg7A5CCGkeGKe+zcF54xvWCRT",
+  "zip": "releases/appapi-1.0.20.zip",
+  "sha256": "81af83fd5b940af73d80291c3800a48502aa1e5ed094a403c24397c88c058c3a",
+  "signature": "RKFCOA65s20IlOKUB3U7aodAphJ1TRzEMsljRz14+dGL4dkTNGvaho3mXrLIL1Orjg9hKUnwylDiaosAoCEoAkeOqVBgmhO6w3b1VFVzC7rV0EeV6covwipZFgv4p7AsQD5hIXpC3ucyRQVCK0j9GY/jAt4Z4QoZbqesiIBONP673X42v7HYh9mHMXeVNaCR4MyAEAjGtqB6d1QxgaZllpxdfw+78tRavMzOUSpZFiMCl+N2Eko40LfmSjTwrG0YXwnrL2tkwfQXbCcHpH5bvO9MlwJvvt79ryMcjJUCUgrvPbRxrIFh7wsnmum0XBDAhpSrGzbvgR/yB3H0v8BtldygA8uiOxHdGZWuI54Hc8jyPrYNahScwpRLdqofUM8Mi+Rn7OkM3GfnX5Z81JUTsuAgGkEnIZkj5N/MLvK0C9OrNIFHu9T6yEDY+oe66Y0wFCbteN97GxKf32C/X1jvH/aecc+sLTo4lCFT00OiM+zwgwJJEiwl0JNxT6B93w41",
   "min_php": "7.1",
-  "notes": "로그인한 기기 목록·로그아웃(앱 2.0.6부터), 보안 보강"
+  "notes": "이름(닉네임) 표시(앱 2.0.7부터), 그누보드 내 정보 수정"
 }
