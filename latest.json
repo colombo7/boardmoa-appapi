@@ -1,9 +1,9 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "date": "2026-10-30",
-  "zip": "releases/appapi-1.0.23.zip",
-  "sha256": "77633655055e06292b1db2ae1b519da9669d44a191e4c81a19d31a235a80585b",
-  "signature": "VXsbEfLu+rZSwDXstwbgI3+KupOebbkFRMQVLQx1CwvIbokrLQHwmrvPFXKzlT5PVwoKunJ+o23RxoX1G004f0UDaiapFOkqQNp8wHdzKGq+g1eTVfLP3QGUNnZZgaicrL3TCHBwMpB1RR6itxiur6KnhB1HN+WXvXDs2v7ZSf1+9MAA240sYAeICN00YJUw6AbVEsi0oNRSuRG6P/S6CqIlCe0AyE4Jzo+0vt0W9kBvow2OubyuHwbXXb6Iz3EzbwKDRiGmCysjAkdiIFu4M1XnjrBNpABYekRIaGppjE7I1gLGuSB1O7lfcK8MZVWNFVk1Aziahc/+Rvc5hDsYOt1joNKGt5lyGtx9CcQraPWKxpDaV3Ld1IJxi18scjzB9GYEai3BgPQ0MjEsb4jIhwZmRoOBu3MAJDUlZo/gb4+1eewukCCHeRSjGUq9fdiho7Z+tFlJ1bP93aaUegu+OpzIpcui/P9AO4K69tLmJmRGXt3ZF7gMmISxu45SPSaR",
+  "zip": "releases/appapi-1.0.24.zip",
+  "sha256": "a210ac5cdc02d288908148ec62866f95611379a402dd37bd64f7bab8b28bce47",
+  "signature": "ZZd7n6oe++6gHC3AN+KpT4n7v5IITdAlT1H3HPYa+TBCfT/Gysgo/LUrsSlZWEv7R3jGGHm3EKEosAxD1yIb7UUzLjd0Z71PYCXygXWlm7UVQPft75NM9Nv1RO6CGsbI+NibEkFKy1yVZR8kViG920rtCWQjFifaQY3pMSv4OMzLcotZxk4DVJgVhngRUkG9mZRcQA4+ovhiVFHQwBL1i7KkhXNnjx50liqcVW96xQfbm6j+I+FE0ISndBbLM4/YlT7cm8eqhdvcHlr0LUNqVUGCLemWGFdTfyzmwdOpQcOGSv9jCAOwv28ROh/ilNG91Bxe05OkVVW0aBpgF0DhGNrOVVOdvf2ntUFCJ+8d4uufCYo9qqfHRTEWljR/Dov3Ohs8NprsjKW71mRzPy9ofq0zN3dOPySaxtXyjbEkCI9VZopLUFEHC/Q1PGIw1OA43/oG2W9VfgZaC6Aj8RfgXyHu0j3KdvSeXSXeVNMJOJgaxkYyRLfFqib4575Q2rAO",
   "min_php": "7.1",
-  "notes": "내 정보 수정에서 닉네임·정보공개 변경 제한 기간 안내(그누보드)"
+  "notes": "그누보드 관련 설명을 플러그인으로 통일"
 }
