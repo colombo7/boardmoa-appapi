@@ -1,9 +1,9 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "date": "2026-10-30",
-  "zip": "releases/appapi-1.0.18.zip",
-  "sha256": "8fc17be6f2ead7973f8e5381357fe1038bef1519e3b71ec9867f0f10e76e659a",
-  "signature": "EoMwzdnZHjJk7kUbXrZZ1MUDCsZztWGtyPbheQJke+IlKC/mVejUVyYH9SIMyWA3VsZYHLLhHeWa/jfBNEvujJcbHuKihiAQdgTu2Ne4UbF3dlX1u0xiFZD3nbvWEq9P+acuAY2p+qaFqfyYWINzGtir0y29cqKhun8XpyQuwigyi1rD82IdrVioDiJ38PqpEqoJkYp+n9cySDYqmjobhlctmhvXQcThQ6Jt424b+/Ss6a3kyAoLSaq2891/DOIaLd7JXHD9NeNetXJLI5tHU9GBlFCpCSeY5WLNOhktLgjqLry/kCqdWvCBCOX6Xa1Hlwo0qI0EJ4jSP6C4wlw0qwzCt+E033LshlkVZhJYKLwj29MNFwTXTd8DSqWL7D+ojgyyGWfMh7Hk+XBu/SfBO+qRaoUcOEswMIxBbefqW1a5+v/9pGdfm9irMYGcOkfpMUtgx4/62U8W8Supwq58/kVGXHlnmebd57gd/i+WtjdkC0moK8QLsmZvBmF2Edyz",
+  "zip": "releases/appapi-1.0.19.zip",
+  "sha256": "62dd80905c3e3fb8fd40c2a0c7f5e55a536a249aa203606c5d4330e1f0b27b84",
+  "signature": "q+O0T/lcRI/dWbapjk984BPnWLNhb5krug4q4D/QDjM55RAmSq02MZfrA1ZpoKx5JtzbHO70q731jytDa7cdPguAsSCHeS6HW5nZ+y8QVU2phuOe7Q150Xk2mR/3Qf33ImSAuE40Y5yalPBGzsTr8S8GKskZJOopNjtGSMG2gFKJASKBoHfiFjGlyyJKPxz4t6SO3Ge6htqzi2Eg8AalOx+AVtS9doUhqJ1EP7mjiXCz9s9TeJtLyR//k0bHSPA0EhfkAxCBE503ePUacQ864tpiI493aa0MCBOJXfpfQa0Hapf4AB5Bp1KT5HlrGTmHBatf1aZxMZESGQsSe13kfQdZsfYKjGmsKpjJiu6dXmOvhtVE8QpeDVN8p0n10w7GDUOQ18wGiL+/I89pFC5PJ7zk9aygj7teWDbX6Ra7jdA9YvwC4G8Iv8e8aN3DrFD2dg1gPtrOSWEz38/ltZ23b95aV+hnkijJWdivG7tBg7A5CCGkeGKe+zcF54xvWCRT",
   "min_php": "7.1",
-  "notes": "1.0.18: 보안 강화(앱 본문 스크립트 주입 차단, 업데이트 백업을 zip 으로, 비밀번호·로그인 시도 제한), 댓글 추천, 파일 첨부, 비밀번호로 연 비밀글에 댓글, 태그 표시, 웹에 보이는 단추만"
+  "notes": "로그인한 기기 목록·로그아웃(앱 2.0.6부터), 보안 보강"
 }
